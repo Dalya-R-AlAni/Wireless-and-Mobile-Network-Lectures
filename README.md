@@ -3,7 +3,7 @@
 Welcome to the official repository for the **Wireless and Mobile Network** course at the University of Kirkuk, hosted by Dr.-Ing. Dalya Raad Al-Ani.
 
 ## 📑 Course Syllabus & Lectures
-📄 **[Download the Complete Course Roadmap (PDF)](Wireless_and_Mobile_Network_Syllabus.pdf)**
+📄 **[Download the Complete Course Roadmap (PDF)]( Wireless_and_Mobile_Network_Syllabus.pdf)**
 
 The repository includes weekly theoretical lectures including Week 01 through Week 03, covering fundamentals, cellular evolution, signal processing, and modulation.
 

@@ -1,19 +1,9 @@
 # Wireless and Mobile Network (IT Department)
 
-Welcome to the official repository for the **Wireless and Mobile Network** course at the University of Kirkuk, hosted by Dr.-Ing. Dalya Raad Al-Ani.
+Welcome to the official repository for the **Wireless and Mobile Network** course at the University of Kirkuk by Dr.-Ing. Dalya Raad Al-Ani.
 
-## 📑 Course Syllabus & Lectures
-📄 **[Download the Complete Course Roadmap (PDF)]( Wireless_and_Mobile_Network_Syllabus.pdf)**
-
-The repository includes weekly theoretical lectures including Week 01 through Week 03, covering fundamentals, cellular evolution, signal processing, and modulation.
-
-## 📚 Core References
-* Dordal, P. L. (2023). *An Introduction to Computer Networks*.
-* Du, K.-L., & Swamy, M. N. S. (2026). *Wireless Communication Systems*.
-* Molisch, A. F. (2022). *Wireless Communications*.
-* Peterson, L., & Sunay, O. (2020). *5G Mobile Networks*.
-* Tanenbaum, A. S., & Wetherall, D. J. (2010). *Computer Networks*.
+## 📑 Course Syllabus & Weekly Matrix
+You can find the complete course roadmap, the full 15-week lecture matrix (covering fundamentals through to 5G/6G architectures, MAC layer, routing, and mobile edge computing), core references by authors like P. L. Dordal and A. F. Molisch, and download instructions directly in the repository.
 
 ---
-*Copyright © 2026 Dr.-Ing. Dalya Raad Al-Ani. All rights reserved.*
-
+*Copyright © 2026 Dr.-Ing. Dalya Raad Al-Ani. All rights reserved. Materials are hosted strictly for educational purposes for IT students enrolled at the University of Kirkuk.*

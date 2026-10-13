@@ -9,7 +9,7 @@ You can find the complete course roadmap, the full 15-week lecture matrix (cover
 Click on the links in the table below to access or download the respective PDF files for each week.
 
 | Week | 📘 Theoretical Lecture (PDF) | 
-| :--- | :--- | :--- |
+| :--- | :--- | 
 | **Week 01** | [Fundamentals of Wireless Transmission & Architectural Differences.](week%2001/Theory_Lecture1.pdf) | 
 | **Week 02** | [Cellular Evolution & 5G/6G Architectures.](week%2002/Theory_Lecture2.pdf) | 
 | **Week 03** | [Signal Processing, Modulation, & Multiplexing](week%2003/Theory_Lecture3.pdf) | 

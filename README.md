@@ -4,7 +4,7 @@ Welcome to the official repository for the **Wireless and Mobile Network** cours
 
 ## 📑 Course Syllabus & Weekly Matrix
 You can find the complete course roadmap, the full 15-week lecture matrix (covering fundamentals through to 5G/6G architectures, MAC layer, routing, and mobile edge computing), core references by authors like P. L. Dordal and A. F. Molisch, and download instructions directly in the repository.|
-📄 **[Download the Complete Course Roadmap (PDF)](Wireless%20and%20Mobile%20NetworkingSyllabus.pdf)**
+📄 **[Download The Complete Roadmap to Wireless and Mobile Network (PDF)](Wireless%20and%20Mobile%20NetworkingSyllabus.pdf)**
 ---
 Click on the links in the table below to access or download the respective PDF files for each week.
 

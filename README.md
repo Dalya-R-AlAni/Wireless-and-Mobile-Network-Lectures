@@ -6,7 +6,7 @@ Welcome to the official repository for the **Wireless and Mobile Network** cours
 ## 📑 Course Syllabus & Weekly Matrix
 You can find the complete course roadmap, the full 15-week lecture matrix, core references, and download instructions directly in the repository.
 
-📄 **[Download The Complete Roadmap to Wireless and Mobile Network (PDF)](https://githubusercontent.com)**
+📄 **[Download The Complete Roadmap to Wireless and Mobile Network (PDF)](%20Wireless_and_Mobile_Network_Syllabus.pdf)**
 
 
 

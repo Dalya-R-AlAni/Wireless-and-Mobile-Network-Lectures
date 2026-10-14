@@ -19,7 +19,8 @@ You can find the complete course roadmap, the full 15-week lecture matrix, core 
 ---
 
 ## 📚 Core Course Resources & Literature
-Key references include:
+## Key references include:
+
 Standard texts by Dordal (2023), Du & Swamy (2026), Molisch (2022), Peterson & Sunay (2020), and Tanenbaum & Wetherall (2010).
 
 ---

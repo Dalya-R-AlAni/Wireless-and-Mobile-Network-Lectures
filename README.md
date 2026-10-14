@@ -1,6 +1,8 @@
-# Wireless and Mobile Network (IT Department)
+# 📡 Wireless and Mobile Network (IT Department)
 
-Welcome to the official repository for the **Wireless and Mobile Network** course at the University of Kirkuk by Dr.-Ing. Dalya Raad Al-Ani.
+Welcome to the official repository for the **Wireless and Mobile Network** course at the University of Kirkuk, designed and delivered by **Dr.-Ing. Dalya Raad Al-Ani**. 
+
+This course establishes a comprehensive roadmap covering wireless communication systems, from transmission fundamentals to 5G/6G architectures and edge frameworks.
 
 
 ## 📑 Course Syllabus & Weekly Matrix
@@ -8,12 +10,18 @@ You can find the complete course roadmap, the full 15-week lecture matrix, core 
 
 📄 **[Download The Complete Roadmap to Wireless and Mobile Network (PDF)](%20Wireless_and_Mobile_Network_Syllabus.pdf)**
 
+## 🎓 Bologna Process Syllabus Framework
+
 📄 **[The Bologna Semester Plan (40 Marks Total)(PDF)](Bologna%20Process%20Wireless%20and%20Networking/Bologna_Process.pdf)**
 
 
 
+---
 
+## 📚 Core Course Resources & Literature
+Key references include standard texts by Dordal (2023), Du & Swamy (2026), Molisch (2022), Peterson & Sunay (2020), and Tanenbaum & Wetherall (2010).
 
+---
 
 
 Click on the links in the table below to access or download the respective PDF files for each week.
@@ -38,6 +46,9 @@ Click on the links in the table below to access or download the respective PDF f
 
 
 ---
+
+*(Note: Subsequent weeks follow the standard curriculum breakdown up to Week 15).*
+
 
 ## 📥 How to Download Materials
 Students can access files in two ways:

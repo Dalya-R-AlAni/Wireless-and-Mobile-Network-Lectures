@@ -8,6 +8,10 @@ You can find the complete course roadmap, the full 15-week lecture matrix, core 
 
 📄 **[Download The Complete Roadmap to Wireless and Mobile Network (PDF)](%20Wireless_and_Mobile_Network_Syllabus.pdf)**
 
+📄 **[The Bologna Semester Plan (40 Marks Total)(PDF)](Bologna%20Process%20Wireless%20and%20Networking.pdf)**
+
+
+
 
 
 

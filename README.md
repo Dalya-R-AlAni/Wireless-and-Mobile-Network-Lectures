@@ -33,7 +33,7 @@ Click on the links in the table below to access or download the respective PDF f
 | **Week 01** | [Fundamentals of Wireless Transmission & Architectural Differences.](week%2001/Theory_Lecture1.pdf) | 
 | **Week 02** | [Cellular Evolution & 5G/6G Architectures.](week%2002/Theory_Lecture2.pdf) | 
 | **Week 03** | [Signal Processing, Modulation, & Multiplexing](week%2003/Theory_Lecture3.pdf) | 
-| **Week 04** | ⏳ *Coming Soon* | 
+| **Week 04** | [Medium Access Control (MAC) Layer Principles](week%2004/Theory_Lecture4.pdf) | 
 | **Week 05** | ⏳ *Coming Soon* | 
 | **Week 06** | ⏳ *Coming Soon* | 
 | **Week 07** | ⏳ *Coming Soon* | 

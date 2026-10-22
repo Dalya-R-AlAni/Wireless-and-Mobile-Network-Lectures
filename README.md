@@ -4,6 +4,23 @@ Welcome to the official repository for the **Wireless and Mobile Network** cours
 
 This course establishes a comprehensive roadmap covering wireless communication systems, from transmission fundamentals to 5G/6G architectures and edge frameworks.
 
+## 🎯 Course Overview & Administration
+
+### 👥 Target Audience & Prerequisites
+* **Program:** Information Technology Department
+* **Audience:** Undergraduate IT Students
+* **Core Focus:** Wireless transmission, cellular evolution (5G/6G), MAC layer principles, and edge computing.
+
+### 📊 Bologna Process Grading Breakdown
+* **Continuous Assessment (40 Marks Total):** Quizzes/Tests (10%), Mid-term (15%), Homework/Research (15%).
+* **Final Evaluation:** As per university regulations.
+
+### 💬 Communication & Support
+* **Announcements:** Broadcasted via official Telegram channels.
+* **Technical Queries:** Please open a GitHub Issue for course doubts.
+
+### 🛠 Recommended Technical Tools & Simulators
+Students are encouraged to explore industry-standard platforms for network emulation, such as Cisco Packet Tracer, Wireshark, and NS-3 (Network Simulator 3).
 
 ## 📑 Course Syllabus & Weekly Matrix
 You can find the complete course roadmap, the full 15-week lecture matrix, core references, and download instructions directly in the repository.

@@ -1,0 +1,25 @@
+# Network Simulation & Packet Capture artifacts
+*.pcap
+*.pcapng
+*.cap
+*.log
+*.pkts
+*.tr
+*.out
+
+# Microsoft Office temporary lock files (generated when editing Syllabus/Docs)
+~$*.docx
+~$*.pptx
+~$*.xlsx
+~*
+
+# System & OS Clutter
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# LaTeX temporary files (in case any networking docs use LaTeX)
+*.aux
+*.log
+*.toc
+*.synctex.gz

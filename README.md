@@ -52,7 +52,7 @@ Click on the links in the table below to access or download the respective PDF f
 | **Week 03** | [Signal Processing, Modulation, & Multiplexing](week%2003/Theory_Lecture3.pdf) | 
 | **Week 04** | [Medium Access Control (MAC) Layer Principles](week%2004/Theory_Lecture4.pdf) | 
 | **Week 05** | [Coordinated & Spread Spectrum Access](week%2005/Theory_Lecture5.pdf) | 
-| **Week 06** | ⏳ *Coming Soon* | 
+| **Week 06** | [Random Access & The Evolution of Wi-Fi (IEEE 802.11)](week%2006/Theory_Lecture6.pdf) | 
 | **Week 07** | ⏳ *Coming Soon* | 
 | **Week 08** | ⏳ *Coming Soon* | 
 | **Week 09** | ⏳ *Coming Soon* | 

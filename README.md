@@ -46,7 +46,7 @@ Standard texts by Dordal (2023), Du & Swamy (2026), Molisch (2022), Peterson & S
 
 ## First Quiz with Answers:
 
-| [ MASTER SOLUTIONS KEY: VERSION A & VERSION B ](FirstQuiz/First_Quiz.pdf) | 
+| [ MASTER SOLUTIONS KEY: VERSION A & VERSION B ](Quizzes/FirstQuiz/First_Quiz.pdf) | 
 ## Second Quiz with Answers:
 
 | ⏳ *Coming Soon* | 

@@ -42,6 +42,16 @@ Standard texts by Dordal (2023), Du & Swamy (2026), Molisch (2022), Peterson & S
 
 ---
 
+## 📚 Quizzes:
+
+## First Quiz with Answers:
+
+| [ MASTER SOLUTIONS KEY: VERSION A & VERSION B ](FirstQuiz/First_Quiz.pdf) | 
+## Second Quiz with Answers:
+
+| ⏳ *Coming Soon* | 
+---
+
 
 Click on the links in the table below to access or download the respective PDF files for each week.
 
